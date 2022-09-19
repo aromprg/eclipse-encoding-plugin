@@ -1,4 +1,4 @@
-# Autodetect Encoding Eclipse Plugin
+# Autodetect Encoding Eclipse Plugin (x-MacCyrillic disable in this fork)
 Show file information for the active editor in the Eclipse status bar.  
 
 ## Install
