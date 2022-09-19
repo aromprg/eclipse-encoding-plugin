@@ -92,6 +92,10 @@ public class Charsets {
 			} finally {
 				IOUtils.closeQuietly(bin);
 			}
+			
+			if (Objects.equals(charset, "x-MacCyrillic")) {
+				charset = "Cp1251";
+			}
 		}
 		return charset;
 	}
