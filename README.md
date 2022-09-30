@@ -1,4 +1,6 @@
 # Autodetect Encoding Eclipse Plugin (x-MacCyrillic disable in this fork)
+**x-MacCyrillic disable because I have a false positive detection in my Cp1251 source files**
+
 Show file information for the active editor in the Eclipse status bar.  
 
 ## Install
